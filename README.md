@@ -7,7 +7,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/camiloj896?label=follow&style=social)](https://github.com/sanseb19)
 
 
-### <img src="https://media.giphy.com/media/l4jsKDLGiOxQRy3WbE/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/xULW8N1gBOKIWuIka4/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Camiloj896 = {
