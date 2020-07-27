@@ -1,5 +1,5 @@
 <h2> Hi, I'm Juan Sebastian Valdes Sanchez</h2>
-<img align='right' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/3o7bua1kx7Dloc2edO/giphy.gif" width="230">
 <p><em>software engineering student at <a href="https://unipanamericana.edu.co/">Manuela Beltran University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Analyst developer at <a href="https://www.teleperformance.com/en-us">Teleperformance</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -7,7 +7,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/camiloj896?label=follow&style=social)](https://github.com/sanseb19)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/Q80CHb6zCf6MhIUXRh/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Camiloj896 = {
